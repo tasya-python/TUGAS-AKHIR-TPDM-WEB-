@@ -1,0 +1,32 @@
+ [1] Kemenkes RI, “Hari Diabetes Sedunia Tahun 2018,” Pus. Data 
+dan Inf. Kementrian Kesehat. RI, pp. 1–8, 2018. 
+
+ [2]J. L. Harding, M. E. Pavkov, D. J. Magliano, J. E. Shaw, and E. 
+W. Gregg, “Global trends in diabetes complications: a review 
+of current evidence,” Diabetologia, vol. 62, no. 1, pp. 3–16, 
+2019, doi: 10.1007/s00125-018-4711-2
+
+[3] WHO, “Global Report on Adult Learning Executive Summary,” 
+2016, [Online]. Available: 
+http://apps.who.int/iris/bitstream/10665/204874/1/WHO_NM
+H_NVI_16.3_eng.pdf?ua=1.
+
+[4] International Diabetes Federation, "Global and Regional Diabetes Prevalence Estimates For 2019 
+and Projections For 2030 and 2045: Results From The International Diabetes Federation 
+Diabetes Atlas, 9th Edition," Diabetes Research and Clinical Practice, 2019. 
+
+[5] Agatsa, D.A, Rismala, R, and Wisesty, U.N, “Klasifikasi Pasien 
+Pengidap Diabetes menggunakan Metode Support Vector 
+Machine,” J. Telkom Univ., vol. 7, no. 1, pp. 1–9, 2020.
+
+[6] R. D. Gradianta and I. , "Klasifikasi Pasien Penderita Diabetes Mellitus Tipe 2 Menggunakan 
+Metode Analisis Diskriminan Hybrid Algoritma Genetika," JURNAL SAINS DAN SENI 
+POMITS , vol. 3, 2014.
+
+[7]  A. A. Aljumah, M. G. Ahamad and M. K. Siddiqui, "application of data mining diabetes health 
+care in young and old patients," vol. 25, pp. 127-136, 2012. 
+
+[8] W. Budiharto, Machine Learning & Computational Intelligence, Yogyakarta: Penerbit Andi, 2016
+
+[9] B. Han and L. S. Davis, "Density-Based Multifeature Background Subtraction with Support Vector
+Machine," in IEEE Transactions on Pattern Analysis and Machine Intelligence, 2012.
